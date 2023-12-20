@@ -11,7 +11,7 @@ Front-End Developer | Automation Architect
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on any Front-End project/ Automation
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanmuktej" alt="shanmuktej" /></a></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=shanmuktej" alt="shanmuktej" width="100%"/></p>
 
 
 
